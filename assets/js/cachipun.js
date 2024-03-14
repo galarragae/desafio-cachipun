@@ -25,13 +25,6 @@ for (let i = 1; i <= numeroJuagadas; i++) {
         noCumple = true;
     }
 
-    // continuar = false
-    // while (continuar){
-    //     prompt("desea continuar?")
-
-    //     if ()
-    // }
-
     while (noCumple) {
         jugadaUser = prompt('Ingresaste una opción inválida. Ingresa:\n1 para Piedra\n2 para Papel\n3 para tijera')
 
